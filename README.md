@@ -24,6 +24,7 @@ Internet access for location services and sharing
 
 Permission to access location and camera/flashlight
 
+
 Installation
 Clone the repository:
 
