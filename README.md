@@ -25,8 +25,21 @@ Internet access for location services and sharing
 
 Permission to access location and camera/flashlight
 
+Installation
+Clone the repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/yourusername/anjo-da-guarda.git
+cd anjo-da-guarda
+Follow platform-specific setup instructions in the /docs folder.
+
 🛡️ Security & Privacy
 Anjo da Guarda is designed with privacy and user safety in mind. Your location data is only shared when you choose to do so. No sensitive information is stored or transmitted without your consent.
+
+🧑‍💻 Contributing
+Contributions are welcome! Please read the CONTRIBUTING.md file for guidelines on how to propose improvements or report issues.
 
 📄 License
 This project is licensed under the MIT License - see the LICENSE file for details.
