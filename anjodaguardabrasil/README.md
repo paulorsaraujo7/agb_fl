@@ -47,4 +47,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 🙌 Acknowledgments
 OpenStreetMap and other geolocation service providers
 
+**The project is currently disabled**
+
 Brazilian public emergency services
