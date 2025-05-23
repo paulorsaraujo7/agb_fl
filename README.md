@@ -1,34 +1,38 @@
-# 🛡️ Anjo da Guarda
+Anjo da Guarda
+Anjo da Guarda is a mobile application designed to enhance personal safety and emergency readiness. With quick access to essential emergency contacts in Brazil, a built-in flashlight, and geolocation features, Anjo da Guarda is your digital guardian angel, always ready when you need it most.
 
-**Anjo da Guarda** é um aplicativo de utilidade pública projetado para oferecer suporte rápido e eficiente em situações de emergência. Com uma interface simples e funcional, o app oferece acesso imediato a serviços essenciais, além de ferramentas úteis para momentos críticos.
+🌟 Features
+📞 Emergency Numbers Access
+Instantly access Brazil's primary emergency phone numbers, including Police (190), Fire Department (193), Ambulance (192), and more.
 
-## 🚀 Funcionalidades Principais
+🔦 Flashlight Tool
+A built-in flashlight feature to help you see or be seen in dark or low-visibility conditions.
 
-- 📞 **Telefones de Emergência**  
-  Acesso rápido aos principais telefones de emergência do Brasil, como:
-  - Polícia Militar (190)
-  - Bombeiros (193)
-  - SAMU (192)
-  - Defesa Civil
-  - Delegacia da Mulher, entre outros.
+📍 Reverse Geolocation
+Automatically detects and displays your current address based on your GPS location.
 
-- 🔦 **Lanterna Integrada**  
-  Utilize a lanterna do dispositivo com apenas um toque — ideal para emergências no escuro ou situações de risco.
+🔗 Location Sharing
+Share your real-time location with friends, family, or emergency services with a single tap.
 
-- 📍 **Geolocalização Reversa**  
-  Descubra rapidamente o seu endereço atual a partir da localização GPS do dispositivo.
+🚨 Additional Tools
+More safety features planned for future releases, making Anjo da Guarda your go-to emergency companion.
 
-- 📤 **Compartilhamento de Localização**  
-  Envie sua localização atual com precisão para contatos de confiança via apps de mensagens ou redes sociais.
+📱 Getting Started
+Prerequisites
+Android 7.0+ or iOS 11+
 
-## 🧭 Objetivo
+Internet access for location services and sharing
 
-Facilitar o acesso a recursos de emergência e aumentar a segurança pessoal dos usuários em situações de risco, seja em casa, na rua ou em trânsito.
+Permission to access location and camera/flashlight
 
-## 📱 Tecnologias Utilizadas
+🛡️ Security & Privacy
+Anjo da Guarda is designed with privacy and user safety in mind. Your location data is only shared when you choose to do so. No sensitive information is stored or transmitted without your consent.
 
-- Flutter 
-- APIs de localização (Google Maps, OpenStreetMap, etc.)
-- Integração com funcionalidades nativas do dispositivo (lanterna, chamadas, etc.)
-- Gerenciamento de estado
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+🙌 Acknowledgments
+OpenStreetMap and other geolocation service providers
+
+Brazilian public emergency services
 
